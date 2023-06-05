@@ -23,6 +23,10 @@ This command will download and install the latest version of `react-dom` and its
 This command will download and install the latest version of `firebase` and its dependencies in your project. 
 [Firebase Console](https://console.firebase.google.com/)
 
+### `npm install react-toastify`
+
+This command will download and install the latest version of `npm install react-toastify` and its dependencies in your project. 
+
 ### `npm install styled-components@latest`
 
 This command will download and install the latest version of `styled-components` and its dependencies in your project. 
